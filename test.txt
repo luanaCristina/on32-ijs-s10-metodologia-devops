@@ -1,1 +1,8 @@
 tesste
+
+you can try in step 2 the following directive:
+
+needs: step-1-job-name 
+https://learn.microsoft.com/en-us/azure/devops/repos/git/pull-requests?view=azure-devops&tabs=browser 
+
+https://blog.mergify.com/running-github-actions-only-on-certain-pull-requests/
